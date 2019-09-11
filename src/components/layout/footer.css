@@ -1,0 +1,11 @@
+.footer-copyright {
+    display: grid;
+    grid-template-areas:
+    ". . footer ."
+
+}
+
+.copyright-text {
+    grid-area: footer;
+}
+

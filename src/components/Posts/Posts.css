@@ -1,0 +1,24 @@
+.post-container {
+    margin-left: 20px;
+}
+
+.blog-button {
+    margin: 0 0 10px 20px;   
+}
+.post-text h1 {
+    margin-left: 30px;
+    
+}
+.post-text {
+    background: whitesmoke;
+}
+.card-body {
+    box-shadow: 0 4px 8px 0 rgba(100, 0, 0, 0.2), 0 6px 20px 0 rgba(130, 27, 27, 0.19);
+}
+
+.delete-button {
+    background: #f96332;
+    padding: 5px 5px 5px 5px;
+    margin: 10px 0 5px 0;
+    border-radius: 5px;
+}

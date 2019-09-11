@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Cherry+Cream+Soda&display=swap');
+
+
+* {
+    font-family: 'Cherry Cream Soda', cursive;
+    box-sizing: border-box;
+}
+body {
+    overscroll-behavior: none;
+}
+
+.modal-content {
+    background-color: #D2D4D6;
+}
+
+.modal-title {
+    color: rgb(190, 63, 55) !important;
+    font-weight: bolder;
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) {
+    .modal-content {
+        margin: 0 !important;
+    }
+    .landingbtn {
+        display: none !important;
+    }
+}
