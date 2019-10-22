@@ -1,4 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# HackBlog
+
+-------------------------------------------
+#### What is HackBlog?
+
+- HackBlog is a website where people can share their knowledge about different technologies by writing blogs. This app also gives an access to users to world-wide tech news through algolia web search API. This was an individual project as part of General Assembly's SEI. 
+
+-------------------------------------------
+
+#### Technologies Stack (MERN)
+- Node.JS
+- React
+- Express
+- Mongoose/MongoDB
+- Bootstrap
+- Bcrypt/Express-Session for auth
+- Algolia web search API
+
+-----------------------------------------------------------------------------------
+#### User Story
+- Sign up to create a profile and then login to the site
+- Be redirected to a profil page where profile info can be viewed 
+- Users have the option to create, edit, and delete their own posts in home section
+- Users can search and read world wide news based on their preference
+- Navigate between pages using a navbar
+
+
+-------------------------------------------------------------------------------------------
+
+#### Team
+- Aza Baiyzbekov
+
+#### Instructors
+- Kenny Bushman
+- Dalton Hart
+
+#### License
+- MIT: © Chillbraltar
+
+-------------------------------------
 
 ## Available Scripts
 
