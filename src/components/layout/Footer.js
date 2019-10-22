@@ -10,7 +10,7 @@ const Footer = () => {
                         <div class="col-sm-12 col-md-6">
                             <h6>About</h6>
                             <p> Hack Blog : write about tech </p>
-                            <p> Life is a journey, let Wayfarer be there with you ever step of the way. Connect with others during your journey! Travel smarter, cheaper, and longer.</p>
+                            <p> Share your knowledge about technology. Inspire others. Learn from others.</p>
                         </div>
 
 
@@ -18,7 +18,6 @@ const Footer = () => {
                             <h6>Quick Links</h6>
                             <ul class="footer-links">
                                 <li><a href="#">About Us</a></li>
-                                <li><a href="#">Contact Us</a></li>
                                 <li><a href="#">Contribute</a></li>
                                 <li><a href="#">Privacy Policy</a></li>
                             </ul>
