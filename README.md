@@ -16,6 +16,17 @@
 - Bcrypt/Express-Session for auth
 - Algolia web search API
 
+-------------------------------------------
+
+#### Screenshots
+
+<img width="1432" alt="Screen Shot 2019-09-19 at 7 13 33 PM" src="https://user-images.githubusercontent.com/50389914/68180379-5a58ad80-ff48-11e9-90a5-540a4d3cf6ec.png">
+
+
+-----------------------------------------------------------------------------------
+
+<img width="1254" alt="Screen Shot 2019-11-04 at 9 18 55 PM" src="https://user-images.githubusercontent.com/50389914/68180485-c9360680-ff48-11e9-9fc9-ad62323d67ec.png">
+
 -----------------------------------------------------------------------------------
 #### User Story
 - Sign up to create a profile and then login to the site
